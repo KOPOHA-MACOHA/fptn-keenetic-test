@@ -1,5 +1,10 @@
 # FPTN для Keenetic / Entware
 
+> Исторический репозиторий. Актуальный проект и настоящий форк оригинала:
+> **[KOPOHA-MACOHA/fptn-keenetic](https://github.com/KOPOHA-MACOHA/fptn-keenetic)**.
+> Этот репозиторий сохраняет прежние коммиты, релизы и историю Actions.
+> Плановый поиск обновлений оригинала здесь отключён.
+
 Готовые установочные файлы: **[последний выпуск FPTN Keenetic](https://github.com/KOPOHA-MACOHA/fptn-keenetic/releases/latest)**.
 
 Исследовательский проект интеграции [FPTN](https://github.com/fptn-project/fptn)
